@@ -45,7 +45,9 @@ En Donkey Kong Wollok Edition tendremos dos objetivos:
 ## Partida Ganada
 ![ganada](screenshots/youWin.png)
 
+## Repositorio original
 
+https://github.com/LSantana32/donkeyKong-lanht
 
 
 
